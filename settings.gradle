@@ -1,4 +1,4 @@
-include ':app', ':ipfs-android', ':LibNearbyShare'
+include ':app', ':ipfs-android', ':LibNearbyShare', ':ayanda'
 include ':external:ipfs-android'
 
 
